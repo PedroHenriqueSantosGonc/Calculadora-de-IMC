@@ -37,7 +37,7 @@ O Índice de Massa Corporal (IMC) é uma medida internacional usada para calcula
 
 ## ✨ Funcionalidades
 
-- 📊 **Cálculo Preciso:** Executa a fórmula $IMC = rac{peso}{altura^2}$ de forma rápida.
+- 📊 **Cálculo Preciso:** Executa a fórmula $IMC = \frac{peso}{altura^2}$ de forma rápida.
 - 🏷️ **Classificação Automática:** Identifica e exibe a categoria correspondente:
   - Abaixo do peso
   - Peso normal
@@ -75,75 +75,3 @@ calculadora_imc/
 │   ├── package.json         # Dependências e scripts do projeto
 │   └── vite.config.js       # Configurações do Vite
 └── README.md
-```
-
----
-
-## 🛠️ Como Executar o Projeto
-
-### Pré-requisitos
-Certifique-se de ter instalado em sua máquina:
-- [Node.js](https://nodejs.org/) (versão 18 ou superior)
-- Gerenciador de pacotes **npm** (incluso com o Node) ou **yarn** / **pnpm**
-
-### Passo a Passo
-
-1. **Clonar o Repositório:**
-   ```bash
-   git clone https://github.com/SEU-USUARIO/calculadora_imc.git
-   ```
-
-2. **Acessar o Diretório:**
-   ```bash
-   cd calculadora_imc/calculadora
-   ```
-
-3. **Instalar as Dependências:**
-   ```bash
-   npm install
-   ```
-
-4. **Executar a Aplicação em Modo de Desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-
-5. **Acessar no Navegador:**
-   Abra o link gerado pelo Vite no terminal (geralmente `http://localhost:5173`).
-
----
-
-## 🧠 Conceitos Aplicados & Aprendizados
-
-Durante a implantação desta aplicação, foram exercitados e aprofundados os seguintes conceitos:
-
-- **Gerenciamento de Estado no React:** Utilização eficiente de hooks (`useState`) para controlar entradas do formulário e exibição de resultados.
-- **Modularização de Código:** Separação clara entre lógica de negócios (cálculo e tabela de classificação) e componentes de UI.
-- **Formatações e Tratamento de Dados:** Validação rigorosa de tipos numéricos e formatação do resultado final em casas decimais.
-- **Performance Front-End:** Aproveitamento da estrutura levinha do Vite para tempos de recarregamento (HMR) quase instantâneos.
-
----
-
-## 🔮 Roadmap & Melhorias Futuras
-
-- [ ] **Histórico Local:** Salvar os últimos cálculos realizados via `localStorage`.
-- [ ] **Gráfico Interativo:** Exibir a posição do usuário em uma régua/escala visual do IMC.
-- [ ] **Dark Mode:** Suporte a alternância entre temas claro e escuro.
-- [ ] **Testes Automatizados:** Implementação de testes de componentes com Vitest e React Testing Library.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## ✉️ Contato
-
-Desenvolvido com 💻 e ☕ por **Pedro Henrique dos Santos Gonçalves**.
-
-- **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-henrique-dos-santos-gon%C3%A7alves-8332062b2/))
-
----
-*Se este projeto te ajudou ou serve de inspiração, sinta-se à vontade para dar uma ⭐️ no repositório!*
