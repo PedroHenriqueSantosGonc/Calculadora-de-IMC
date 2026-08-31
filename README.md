@@ -141,11 +141,9 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ## ✉️ Contato
 
-Desenvolvido com 💻 e ☕ por **Seu Nome**.
+Desenvolvido com 💻 e ☕ por **Pedro Henrique dos Santos Gonçalves**.
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)
-- **E-mail:** seu.email@exemplo.com
+- **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-henrique-dos-santos-gon%C3%A7alves-8332062b2/))
 
 ---
 *Se este projeto te ajudou ou serve de inspiração, sinta-se à vontade para dar uma ⭐️ no repositório!*
